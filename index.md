@@ -7,8 +7,10 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-<!-- added a single hashtage with a space to make the largest header, the smallest header is 6 hashtages followed by a space" --!>
-
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
